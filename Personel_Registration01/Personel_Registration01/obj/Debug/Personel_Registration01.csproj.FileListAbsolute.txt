@@ -1,0 +1,27 @@
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\bin\Debug\Personel_Registration01.exe.config
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\bin\Debug\Personel_Registration01.exe
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\bin\Debug\Personel_Registration01.pdb
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.csproj.AssemblyReference.cache
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.csproj.SuggestedBindingRedirects.cache
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Form1.resources
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Properties.Resources.resources
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.csproj.GenerateResource.cache
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.csproj.CoreCompileInputs.cache
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.exe
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.pdb
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.EmployeeIstatistic.resources
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Graphics.resources
+C:\Users\doguk\source\repos\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Login.resources
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\bin\Debug\Personel_Registration01.exe.config
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\bin\Debug\Personel_Registration01.exe
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\bin\Debug\Personel_Registration01.pdb
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.EmployeeIstatistic.resources
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Form1.resources
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Graphics.resources
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Login.resources
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.Properties.Resources.resources
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.exe
+C:\Users\doguk\Desktop\C# Proje\Personel_Registration01\Personel_Registration01\obj\Debug\Personel_Registration01.pdb
